@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="false" name="Configuration1" category="opl">
+            			
+            <ref name="Production planning (tut).mod" type="model">
+			</ref>
+            			
+            <ref name="Production planning (tut).dat" type="data">
+			</ref>
+            		
+        </config>
+        		
+        <config default="true" name="Configuration2" category="opl">
+            			
+            <ref name="Linear programming.dat" type="data">
+			</ref>
+            			
+            <ref name="Linear programming (tut).mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="Configuration3" category="opl">
+            			
+            <ref name="Knapsack 0-1 by myself =).mod" type="model">
+			</ref>
+            			
+            <ref name="Knapsack 0-1 by myself =).dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
