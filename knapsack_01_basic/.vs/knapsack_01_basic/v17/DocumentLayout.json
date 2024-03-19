@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7BEA6D-AA7D-4EC4-B10D-0AC1A4694803}|knapsack_01_basic.vcxproj|C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\KVariable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE7BEA6D-AA7D-4EC4-B10D-0AC1A4694803}|knapsack_01_basic.vcxproj|solutionrelative:KVariable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7BEA6D-AA7D-4EC4-B10D-0AC1A4694803}|knapsack_01_basic.vcxproj|C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\KData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE7BEA6D-AA7D-4EC4-B10D-0AC1A4694803}|knapsack_01_basic.vcxproj|solutionrelative:KData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7BEA6D-AA7D-4EC4-B10D-0AC1A4694803}|knapsack_01_basic.vcxproj|C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\knapsack_01_basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE7BEA6D-AA7D-4EC4-B10D-0AC1A4694803}|knapsack_01_basic.vcxproj|solutionrelative:knapsack_01_basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KData.h",
+              "DocumentMoniker": "C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\KData.h",
+              "RelativeDocumentMoniker": "KData.h",
+              "ToolTip": "C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\KData.h",
+              "RelativeToolTip": "KData.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-10T08:07:10.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KVariable.h",
+              "DocumentMoniker": "C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\KVariable.h",
+              "RelativeDocumentMoniker": "KVariable.h",
+              "ToolTip": "C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\KVariable.h",
+              "RelativeToolTip": "KVariable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-10T08:10:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "knapsack_01_basic.cpp",
+              "DocumentMoniker": "C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\knapsack_01_basic.cpp",
+              "RelativeDocumentMoniker": "knapsack_01_basic.cpp",
+              "ToolTip": "C:\\Users\\Quang Chien\\source\\repos\\knapsack_01_basic\\knapsack_01_basic.cpp",
+              "RelativeToolTip": "knapsack_01_basic.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T07:03:00.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

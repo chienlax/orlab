@@ -1,0 +1,5 @@
+﻿  knapsack_01_basic.cpp
+C:\Users\Quang Chien\source\repos\knapsack_01_basic\KVariable.h(15,71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'knapsack_01_basic.cpp')
+  
+  knapsack_01_basic.vcxproj -> C:\Users\Quang Chien\source\repos\knapsack_01_basic\x64\Debug\knapsack_01_basic.exe
