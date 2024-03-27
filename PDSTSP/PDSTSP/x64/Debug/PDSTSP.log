@@ -1,0 +1,3 @@
+﻿  instance.cpp
+C:\Users\Quang Chien\source\repos\orlab\PDSTSP\instance.cpp(79,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  PDSTSP.vcxproj -> C:\Users\Quang Chien\source\repos\orlab\PDSTSP\x64\Debug\PDSTSP.exe
