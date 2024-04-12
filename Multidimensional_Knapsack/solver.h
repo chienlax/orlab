@@ -18,7 +18,7 @@ public:
 
     Instance* instance;
 
-    int n, m, ans; 
+    int n, m, ans;
     vector<int> capacity;
     vector<int> profit;
     vector<vector<int>> resource_need;

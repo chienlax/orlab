@@ -42,7 +42,7 @@ void Solver::run() {
 
         // Solve the model
         IloCplex cplex(model);
-        cplex.setOut(env.getNullStream());
+        //cplex.setOut(env.getNullStream());
         if (!cplex.solve()) {
             cerr << "Failed to solve the problem" << endl;
             throw(-1);
